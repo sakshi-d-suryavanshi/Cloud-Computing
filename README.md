@@ -129,6 +129,9 @@ The actual benchmark values obtained from the Proxmox VE virtual machine will be
 | Maximum Latency | 2.81 ms |
 | 95th Percentile | 0.67 ms |
 
+### Sysbench Benchmark Output
+
+![Proxmox Sysbench Benchmark](Part-A-Proxmox-Type-1/Screenshot%202026-09-25%20214421.png)
 ---
 
 
