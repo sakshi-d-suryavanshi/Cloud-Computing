@@ -226,25 +226,22 @@ The actual benchmark values obtained from the VMware Workstation virtual machine
 
 The benchmark results obtained from both virtual machines will be compared using the following parameters:
 
-| Performance Metric   | Proxmox VE     | VMware Workstation |
-| -------------------- | -------------- | ------------------ |
-| Hypervisor Type      | Type-1         | Type-2             |
-| CPU                  | 2 vCPU         | 2 vCPU             |
-| Memory               | 2 GB           | 2 GB               |
-| Disk                 | 20 GB          | 20 GB              |
-| Total Execution Time | To be recorded | To be recorded     |
-| Total Events         | To be recorded | To be recorded     |
-| Events per Second    | To be recorded | To be recorded     |
-| Average Latency      | To be recorded | To be recorded     |
-
+| Performance Metric | Proxmox VE (Type-1) | VMware Workstation (Type-2) |
+|---|---:|---:|
+| CPU | 2 vCPU | 2 vCPU |
+| Memory | 2 GB | 2 GB |
+| Disk | 20 GB | 20 GB |
+| Total Execution Time | 10.0007 s | 10.00045 s |
+| Total Events | 17,193 | 13,941 |
+| Events per Second | 1,719.32 | 1,393.89 |
+| Minimum Latency | 0.56 ms | 0.68 ms |
+| Average Latency | 0.59 ms | 0.72 ms |
+| Maximum Latency | 2.81 ms | 2.88 ms |
+| 95th Percentile | 0.67 ms | 0.78 ms |
 The comparison will be based on the actual Sysbench measurements obtained during the experiment.
 
 ---
 
 # 7. Conclusion
 
-This experiment provides a practical comparison of virtual machine CPU performance using a Type-1 hypervisor and a Type-2 hypervisor.
-
-Proxmox VE and VMware Workstation are configured with comparable virtual hardware resources, and Sysbench is used to obtain CPU benchmark measurements.
-
-The final conclusion will be based on the measured performance results from both environments.
+The performance results of both virtual machines are compared using the Sysbench CPU benchmark. Both environments were configured with comparable virtual hardware resources. The measured execution time, number of events, events per second, and latency values are presented above.
