@@ -209,12 +209,12 @@ The actual benchmark values obtained from the VMware Workstation virtual machine
 
 | Metric               | VMware Workstation |
 | -------------------- | ------------------ |
-| Total Execution Time | To be recorded     |
-| Total Events         | To be recorded     |
-| Events per Second    | To be recorded     |
-| Minimum Latency      | To be recorded     |
-| Average Latency      | To be recorded     |
-| Maximum Latency      | To be recorded     |
+| Total Execution Time | 10.00045 s         |
+| Total Events         | 13,941             |
+| Events per Second    | 1,393.89           |
+| Minimum Latency      | 0.68 ms            |
+| Average Latency      | 0.72 ms            |
+| Maximum Latency      | 2.88               |
 
 ---
 
