@@ -131,7 +131,7 @@ The actual benchmark values obtained from the Proxmox VE virtual machine will be
 
 ### Sysbench Benchmark Output
 
-![Proxmox Sysbench Benchmark](Part-A-Proxmox-Type-1/Screenshot%202026-09-25%20214421.png)
+![Proxmox Sysbench Benchmark](Part-A-proxmox-Type-1/Screenshot%202026-09-25%20214421.png)
 ---
 
 
