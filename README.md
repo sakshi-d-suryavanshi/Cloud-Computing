@@ -129,9 +129,7 @@ The actual benchmark values obtained from the Proxmox VE virtual machine will be
 | Maximum Latency      | 0.78 ms        |
 
 ---
-### Sysbench Benchmark Output
 
-![VMware Sysbench Benchmark](Part-B-VMware-Type-2/Screenshot 2026-09-21 162509.png)
 
 # 5. Part B - VMware Workstation (Type-2 Hypervisor)
 
@@ -220,7 +218,9 @@ The actual benchmark values obtained from the VMware Workstation virtual machine
 | Maximum Latency      | 2.88               |
 
 ---
+### Sysbench Benchmark Output
 
+![VMware Sysbench Benchmark](Part-B-VMware-Type-2/Screenshot%202026-09-21%20162721.png)
 # 6. Performance Comparison
 
 The benchmark results obtained from both virtual machines will be compared using the following parameters:
