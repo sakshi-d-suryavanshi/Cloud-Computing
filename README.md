@@ -221,6 +221,7 @@ The actual benchmark values obtained from the VMware Workstation virtual machine
 ### Sysbench Benchmark Output
 
 ![VMware Sysbench Benchmark](Part-B-VMware-Type-2/Screenshot%202026-09-21%20162721.png)
+---
 # 6. Performance Comparison
 
 The benchmark results obtained from both virtual machines will be compared using the following parameters:
