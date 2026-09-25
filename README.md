@@ -207,15 +207,15 @@ sysbench cpu --cpu-max-prime=20000 run
 ## 5.5 Type-2 Results
 
 The actual benchmark values obtained from the VMware Workstation virtual machine will be recorded below.
-
-| Metric               | VMware Workstation |
-| -------------------- | ------------------ |
-| Total Execution Time | 10.00045 s         |
-| Total Events         | 13,941             |
-| Events per Second    | 1,393.89           |
-| Minimum Latency      | 0.68 ms            |
-| Average Latency      | 0.72 ms            |
-| Maximum Latency      | 2.88               |
+| Metric | Proxmox VE |
+|---|---:|
+| Total Execution Time | 10.0007 s |
+| Total Events | 17,193 |
+| Events per Second | 1,719.32 |
+| Minimum Latency | 0.56 ms |
+| Average Latency | 0.59 ms |
+| Maximum Latency | 2.81 ms |
+| 95th Percentile | 0.67 ms |
 
 ---
 ### Sysbench Benchmark Output
