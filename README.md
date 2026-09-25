@@ -131,7 +131,7 @@ The actual benchmark values obtained from the Proxmox VE virtual machine will be
 ---
 ### Sysbench Benchmark Output
 
-![VMware Sysbench Benchmark](Part-B-VMware-Type-2/C:\Users\saksh\Pictures\Screenshots\Screenshot 2026-09-21 162721.png)
+![VMware Sysbench Benchmark](Part-B-VMware-Type-2/Screenshot 2026-09-21 162509.png)
 
 # 5. Part B - VMware Workstation (Type-2 Hypervisor)
 
